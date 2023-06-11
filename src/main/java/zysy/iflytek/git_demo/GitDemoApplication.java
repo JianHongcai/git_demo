@@ -13,6 +13,7 @@ public class GitDemoApplication {
         System.out.println("3");
         System.out.println("4");
         System.out.println("master text");
+        System.out.println("host-text");
     }
 
 }
