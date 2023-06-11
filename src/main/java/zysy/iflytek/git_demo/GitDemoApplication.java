@@ -14,6 +14,8 @@ public class GitDemoApplication {
         System.out.println("4");
         System.out.println("master text");
         System.out.println("host-text");
+        System.out.println("push-text");
+
     }
 
 }
